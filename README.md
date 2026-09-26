@@ -17,7 +17,7 @@ sh larbs.sh \
 ## Post-install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/gasparsequeira/dotfiles/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/gasparsequeira/dotfiles/main/dgs-setup.sh | bash
 ```
 
 Then log out and back in.
