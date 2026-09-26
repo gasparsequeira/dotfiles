@@ -1,6 +1,6 @@
 # dotfiles
 
-Personal Arch Linux setup — dwm, st and zsh, via [LARBS](https://larbs.xyz).
+Personal Arch Linux setup - dwm, st and zsh, via [LARBS](https://larbs.xyz).
 
 ## New machine
 
